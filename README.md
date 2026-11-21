@@ -7,6 +7,6 @@ Proper user support for full screen not added yet, for the optimal experience, p
 
 Press 'r' to replay the game upon game over.
 
-WASD keys move the right bar, whereas the arrow keys move the left bar. 
+WASD keys move the left bar, whereas the arrow keys move the right bar. 
 
-Can be easily played with a friend on the same pc.
+Can be easily played with a friend on the same pc. 
